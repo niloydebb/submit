@@ -1,0 +1,749 @@
+/* hero section start */
+
+.hero{
+    margin-top: 45px;
+    background-image: url(../images/intro_1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero_content h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.common_btn{
+    border: 1px solid #d3a18899;
+   
+    --tw-text-opacity: 1;
+    border-color: #d3a18899;
+    
+    border-width: 1px;
+    color: #d3a188;
+    color: rgb(211 161 136 / var(--tw-text-opacity));
+    display: block;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+   
+    
+    max-width: max-content;
+    padding: 15px 50px;
+    text-transform: capitalize;
+}
+/* .hero_content a {
+    border: 1px solid #d3a18899;
+   
+    --tw-text-opacity: 1;
+    border-color: #d3a18899;
+    
+    border-width: 1px;
+    color: #d3a188;
+    color: rgb(211 161 136 / var(--tw-text-opacity));
+    display: block;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+   
+    
+    max-width: max-content;
+    padding: 15px 50px;
+    text-transform: capitalize;
+    
+} */
+
+/* hero form start */
+
+.real-estate-filter {
+    max-width: 400px;
+    margin: auto;
+    padding: 30px;
+    background-color: #181616;
+    border-radius: 0px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  }
+  
+  .nav{
+    border: none;
+  }
+  
+  
+  .nav-tabs .nav-link.active {
+      background-color: rgb(211 161 136);
+      color: #111;
+  }
+  
+  .nav-tabs .nav-link {
+      background-color: rgb(211 161 136);
+      color: #111;
+      border-radius: 0;
+      padding: 12px 35px;
+  }
+  
+  .nav-tabs .nav-link {
+    color: #fff;
+    background-color: #333;
+    border: none;
+  }
+  
+  select, .form-select{
+   
+      border-radius: 0;
+      border: none;
+      background-color: #000;
+  
+  }
+  
+  .price_input input{
+    border-radius: 0;
+      border: none;
+      background-color: #000;
+  }
+  
+  
+  .form-label {
+    font-size:14px;
+   color: #fff;
+  }
+  
+   .form-select{
+    border: 0;
+  }
+  
+  
+  .form-select:focus {
+      border-color: transparent;
+      outline: 0;
+      box-shadow:none;
+  }
+  
+  .form-select:focus {
+      border-color: transparent;
+      outline: 0;
+      box-shadow: transparent;
+  }
+  
+  .currency-option {
+    margin-right: 10px;
+    color: rgb(89 88 88);
+    cursor: pointer;
+    transition: color 0.3s;
+    font-size: 12px;
+  }
+  
+  
+  
+  .currency-option:hover {
+    color: rgb(89 88 88);
+  }
+  
+  .f_submit_btn {
+    background-color: #D3A188;
+    border: none;
+    border-radius:0;
+    color: #111010;
+  }
+  
+  .f_outline_btn{
+    color: #D3A188;
+    border-color: #D3A188;
+    border-radius:0;
+  }
+  
+  .btn-outline-light:hover {
+    color: #D3A188;
+    border-color: #D3A188;
+  }
+  
+
+/* dubai prpoerties section */
+
+.dubai_header_content{
+    margin-left: 120px;
+}
+
+
+
+
+
+.dubai_properties{
+    padding: 100px 0;
+}
+
+.slider_btn .slider_single_btn:last-child a{
+    background-color: transparent;
+    border: 1px solid rgb(211 161 136);
+    color: rgb(211 161 136);
+}
+
+/* expert section start */
+
+.real_state_expert{
+    padding: 100px 0;
+}
+
+
+.real_state_expert_content{
+    padding: 10px 0 0 55px;
+}
+
+.real_state_expert_content h4{
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+.real_state_expert_content p{
+    margin-bottom: 40px;
+    margin-top: 1.75rem;
+}
+
+.real_state_expert_content a{
+    border: 1px solid rgb(211 161 136);
+    color: rgb(211 161 136);
+    padding: 18px 20px;
+    margin-top: 1.85rem;
+}
+
+
+.counter {
+    border: 1px  solid rgb(89 88 88);
+    border-left: 0px;
+    padding-left: 0;
+    margin-left: -25px;
+    margin-top: 80px;
+    padding: 1.5rem 0;
+}
+
+.counter .s_counter p {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+/* buy rent section */
+.buy_rent{
+    padding: 100px 0 100px;
+}
+
+
+.buy_rent_content h3{
+    font-size: 3.75rem;
+    line-height: 1;
+    color: rgb(89 88 88);
+    transition: color 0.5s ease;
+}
+
+
+
+
+.buy_rent_content {
+    margin-top: 32px;
+    padding: 3rem 0 3rem 3.5rem;
+    border: 1px solid #4b4a4a;
+}
+
+
+.buy_rent_content p{
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+
+
+.text-section .arrow {
+    display: inline-block;
+    transition: all 0.5s ease;
+    font-size: 2rem;
+    margin-left: 10px;
+  }
+
+  .text-section h3:hover {
+   
+    color: #fff;
+  }
+  .text-section h3:hover .arrow {
+    margin-left: 20px;
+    font-size: 3rem;
+    color: #fff;
+  }
+
+
+  .text-section h3.active {
+    color: #fff;
+  }
+
+
+  .text-section h3.active .arrow {
+    margin-left: 20px;
+    font-size: 3rem;
+  }
+  
+  .image-section img {
+    transition: opacity 0.8s ease;
+  }
+
+
+  .image-section img.hidden {
+    opacity: 0;
+  }
+
+
+  .TeamSwiper  .swiper-button-next{
+    
+    margin-top: calc(45px - (var(--swiper-navigation-size)/ 2));
+  
+}
+
+
+.TeamSwiper .swiper-button-next {
+    
+    background: transparent;
+    
+}
+
+
+.TeamSwiper .swiper-button-prev {
+    
+    margin-top: calc(45px - (var(--swiper-navigation-size)/ 2));
+  
+}
+
+
+
+  /* lifestyle start */
+  .lifestyle{
+    background-image: url(../images/bg.webp);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+  }
+
+
+
+  .prompt_consultation{
+
+    border: 1px solid #463831;
+    padding-top: 20px;
+    padding-left: 3.5rem;
+    /* padding-bottom: 50px; */
+    margin-bottom: 100px;
+
+    
+  }
+
+
+
+  .blog_section{
+    border-top:1px solid rgb(211 161 136);
+  }
+
+  .prompt_consultation .prompt_img{
+    background-image: url(../images/Dubai_Skyline.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+  }
+
+
+  .prompt_consultation .prompt_content {
+    margin-bottom: 30px;
+    font-size: 1.125rem;
+}
+
+
+.prompt_consultation .prompt_content  a {
+    border: 1px solid rgb(211 161 136);
+    color: rgb(211 161 136);
+    padding: 1rem 1.75rem;
+}
+  /* lifestyle end */
+
+
+/* swipper slider start */
+
+.pro_btn_prev{
+    margin-left: 112px;
+}
+ 
+ 
+/* swipper slider end */
+
+
+
+.simg_wrapper{
+    position: relative;
+}
+
+.simg_wrapper img{
+    object-fit: cover;
+    display: block;
+    aspect-ratio: 1 / 1.35;
+}
+
+.group{
+    padding-right: 60px;
+}
+
+
+
+.group h1{
+    padding-bottom: 10px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    text-align: left;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.group h1:after {
+    background-image: linear-gradient(90deg, #d3a188, hsla(20, 46%, 68%, 0));
+    bottom: 0;
+    content: "";
+    height: 1px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.group p{
+    color: #ffffffbf;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 1.75rem;
+    padding-top: 1rem;
+    text-align: left;
+}
+
+.scontent_wrapper p{
+    width: 80%;
+    font-size: 14px;
+    padding-top: 0;
+}
+
+
+.slider_single_btn a {
+    background-color: #d3a188;
+    color: #fff;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    padding: 1rem 2.75rem;
+    text-transform: capitalize;
+}
+
+
+
+/* expert slider section start */
+
+.expert_slider{
+    padding: 100px 0;
+}
+
+
+.expertSlider_wrapper {
+    border: 1px solid rgb(89 88 88);
+    border-color: rgb(89 88 88);
+    backdrop-filter: blur(4px);
+    background: #111010cc;
+}
+
+.expert_slider_content{
+    margin-bottom: 1.5rem;
+}
+.expert_slider_content .title{
+    text-transform: uppercase;
+}
+
+
+.expertText_wrapper{
+    padding: 3rem 2.75rem 3rem 0;
+    text-align: left;
+}
+
+.expertText_wrapper h4{
+        margin-bottom: 1.5rem;
+        font-size: 2.25rem;
+        line-height: 2.5rem;
+        text-transform: uppercase;
+   
+}
+
+.expertText_wrapper p{
+    margin-bottom: 1.5rem;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+} 
+
+
+
+.expertText_wrapper a  {
+    border: 1px solid rgb(211 161 136 / 60%);
+    color: rgb(211 161 136);
+    padding: 15px 30px;
+    display: block;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    max-width: max-content;
+    padding: 1rem 1.75rem;
+    text-transform: uppercase;
+}
+
+
+.pagination_holder {
+
+    position: relative;
+}
+
+
+.expert_pagination{
+    position: absolute;
+}
+
+/* team start */
+
+.team_slider_section{
+    border-top: 1px solid #d3a188;
+    padding: 100px 50px;
+}
+.team_slider_section .left_content h2{
+    margin-bottom: 40px;
+}
+
+.explore_slider {
+    position: relative;
+    height: 400px; /* Set a fixed height or use a responsive unit */
+}
+
+.explore_slider .swiper {
+    height: 100%; /* Ensures the swiper takes up the full height of its parent */
+}
+
+.explore_slider .swiper .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Ensures each slide takes up the full height */
+}
+
+.explore_img_wrapper img {
+    max-height: 100%;
+    object-fit: cover; /* Ensures the image fits the container */
+}
+
+.swiper-slide .explore_img_wrapper img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .explore{
+    padding: 100px 0;
+  }
+
+  .explore_content {
+    margin-top: 82px;
+    text-align: right;
+}
+.explore_content p{
+    margin-bottom: 30px;
+}
+
+
+  .explore_content .explore_btn {
+    margin-top: 0px;
+    padding: 20px;
+    color: rgb(211 161 136 / 60%);
+    text-transform: uppercase;
+    font-size: 14px;
+    border: 1px solid rgb(211 161 136 / 60%);
+}
+
+
+
+.dropdown-wrapper {
+    
+
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    /* background-color: #222; */
+    /* padding: 10px; */
+  
+    color: white;
+}
+
+.dropdown-wrapper select, .refresh-btn {
+    font-size: 14px;
+    /* background-color: #333; */
+    color: white;
+    border: 1px solid #444;
+    /* border-radius: 5px; */
+    padding: 10px 10px;
+}
+
+.refresh-btn {
+    margin-top: 0;
+    padding: 13px;
+    background: transparent;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+select {
+    width: 150px;
+}
+
+
+
+/* property slider start */
+.property_home {
+
+    
+  border-top: 1px solid #d3a188;
+  border-bottom: 1px solid #d3a188;  
+     background-color: #111010;
+}
+
+
+
+.luxury_slider_content ul li:after {
+    --tw-translate-x: -50%;
+    background-image: linear-gradient(90deg,transparent,#d3a188,transparent);
+    bottom: 0;
+    content: var(--tw-content);
+    height: 1px;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+    transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+    transition-duration: .3s;
+    width: 0;
+}
+
+.luxury_slider_content ul li:after {
+   
+    width: 100%;
+}
+
+.luxury_slider_content ul li{
+    cursor: pointer;
+}
+
+.luxury_slider_content ul li.active{
+    border-bottom: 1px solid #D3A188;
+    
+}
+
+/* reviews section start */
+.review_section{
+    padding: 100px 0;
+}
+.title h2{
+    margin-bottom: 2.25rem;
+    text-transform: uppercase;
+}
+
+.top_text h5{
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.top_text p{
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+.review_wrapper {
+    border: 1px solid #5958587c;
+    padding: 1rem 0.6rem;
+}
+
+.review_wrapper a {
+    font-size: .875rem;
+    line-height: 1.25rem;
+    color: rgb(211 161 136);
+    text-transform: uppercase;
+}
+
+.star_wrap  {
+    padding-top: 10px;
+    border-top: 1px solid #5958587c;
+}
+
+
+/* news section start */
+
+.news_section{
+    padding: 100px 0;
+}
+.news_image {
+    border: 1px solid rgb(89 88 88);
+}
+
+.news_img_content {
+    position: relative;
+    padding: 20px;
+}
+
+
+.news_img_content h5 {
+    margin-bottom: .8rem;
+    text-align: center;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+
+.news_img_content a i {
+    color: #fff;
+    font-size: 42px;
+    rotate: -32deg;
+    position: absolute;
+    right: 34px;
+    bottom: 25px;
+}
+
+.r_img_item{
+    border: 1px solid rgb(89 88 88);
+}
+
+.news_img_content .lf{
+    right: 18px;
+    bottom: -15px;
+}
+
+.lf_img_wrapper{
+    width: 300px;
+}
+
+.lf_img_wrapper img {
+    object-fit: cover;
+    display: block;
+    aspect-ratio: 1/0.56;
+}
+/* news section end */
+
+
+
+/* gallery code */
+
+.gallery{
+    padding: 100px 0;
+    background-image: url(../images/bg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.home_map_view a{
+    border-color: rgb(89 88 88);
+    color: rgb(211 161 136);
+     background-color: #00000080;
+}
+
+.home_map_view a i{
+    
+    color: rgb(255, 255, 255);
+   
+}
+
+
